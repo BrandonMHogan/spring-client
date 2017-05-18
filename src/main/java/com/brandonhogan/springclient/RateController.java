@@ -30,7 +30,6 @@ public class RateController {
         //name of the view
         return "rateview";
 
-
     }
 
 }
